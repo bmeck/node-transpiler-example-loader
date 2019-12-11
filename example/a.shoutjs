@@ -1,0 +1,3 @@
+import "./b.shoutjs";
+
+console.log('a: hello from ' + import.meta.url);
